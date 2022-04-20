@@ -17,7 +17,7 @@
 + DBMS : Oracle11g
 + Frontend : HTML, CSS, javascript, jsp/servlet
 + Library : Jquery, ojdbc, JSTL , cos , gson
-+ Server : Apache Tomca 8.5
++ Server : Apache Tomcat 8.5
 
 ***
 ##### MAIN UI
